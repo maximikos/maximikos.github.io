@@ -29,7 +29,7 @@ ignore = [setdiff([isfile(x) ? x : x * "/" for x in readdir()], _include); _excl
 @def social = (
         ssh = "https://www.ntnu.edu/employees/maximilian.koslowski",
         linkedin = "https://www.linkedin.com/in/maximilian-koslowski-711365143/",
-        github = "https://github.com/maximiko",
+        github = "https://github.com/maximikos",
         twitter = "https://twitter.com/maximikos"
     )
 
