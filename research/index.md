@@ -6,25 +6,25 @@ title = "Research"
 <main class="post">
 ~~~
 
-## PhD Life &#127891;
+## &#127891; PhD Life
 Since August 2021 I am part of NTNU's [Industrial Ecology programme](https://www.ntnu.edu/indecol), a research group focusing on all things sustainability. I am extremely grateful for having gotten the chance to pursue my PhD here in this amazing environment with so many like-minded people. We are around 70 colleagues, most of who are PhD students, and aside from research we sometimes also do some [fun stuff](https://www.instagram.com/p/CTmCOHDIRBa/).
 
 In the bigger picture, my PhD revolves around the question of how we can achieve the [UN Sustainable Development Goals](https://sdgs.un.org/goals) - or, put differently: how can we reach the [doughnut](https://www.youtube.com/watch?v=Rhcrbcg8HBw&ab_channel=TED) of respecting planetary boundaries while providing life's essentials? To examine possible pathways, I use methods from the research fields of industrial ecology and socio-economic metabolism, first and foremost input-output analysis. How that looks like in everyday life I document [here]({{ website_url }}/posts).
 
-## Inspiration &#128218;
+## &#128218; Inspiration
 There is so much fascinating research out there and I would like to share here some of it. A few of my all-time favourite academic publications include:
 - the [biodiversity threat hotspots paper](https://folk.ntnu.no/daniemor/pdf/MoranKanemoto2017_SpatialFootprintBiodiv.pdf) by my former master thesis supervisor [Dan Moran](https://folk.ntnu.no/daniemor/),
 - the [2020-paper](https://doi.org/10.1038/s41586-020-2189-9) by [Christopher Trisos](https://climaterisklab.com/team/) and colleagues on the projected timing of abrupt ecological disruption from climate change,
 - and the [EXIOBASE](https://exiobase.eu/)-paper on the [global resource footprint of nations](https://www.academia.edu/download/35404560/creea%7B_%7Dbooklet%7B_%7Dweb%7B_%7Dspreads%7B_%7Dlowres%7B_%7D1.pdf).
 
-## Teaching &#127890;
+## &#127890; Teaching
 During my time in Freiburg, I contributed substantially to the conceptualisation, realisation, and teaching of two master’s courses, namely one on material flow analysis and one on climate change mitigation and adaptation. In addition, I led a seminar and gave a few lectures in a third course on life cycle assessment.
 
 Before that, while still a master's student at NTNU, I contributed as a teaching assistant in classes on life cycle assessment, life cycle impact assessment, and an introductory course on climate change.
 
 And now, again at NTNU, I contribute to the graduate course on [input-output analysis](https://www.ntnu.edu/studies/courses/TEP4222/2022/1#tab=omEmnet). I am really happy about getting the chance for doing so - although, in fact, I *have to* as part of my work agreement. Spring semester 2022 was the first time, and the next round will be in spring 2023. Looking forward to it 🙃
 
-## Selected presentations &#128172;
+## &#128172; Selected presentations
 - *Rectangular technology choices - From Leontief and Sraffa to waste*\
     Poster presented at: [NTRANS Research Festival](https://www.ntnu.no/ntrans/ntrans-festivalen) 2022 in Røros
 
