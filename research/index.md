@@ -22,7 +22,7 @@ During my time in Freiburg, I contributed substantially to the conceptualisation
 
 Before that, while still a master's student at NTNU, I contributed as a teaching assistant in classes on life cycle assessment, life cycle impact assessment, and an introductory course on climate change.
 
-And now, again at NTNU, I contribute to the graduate course on input-output analysis (https://www.ntnu.edu/studies/courses/TEP4222/2022/1#tab=omEmnet). I am really happy about getting the chance for doing so - although, in fact, I *have to* as part of my work agreement. Spring semester 2022 was the first time, and the next round will be in spring 2023. Looking forward to it 🙃
+And now, again at NTNU, I contribute to the graduate course on [input-output analysis](https://www.ntnu.edu/studies/courses/TEP4222/2022/1#tab=omEmnet). I am really happy about getting the chance for doing so - although, in fact, I *have to* as part of my work agreement. Spring semester 2022 was the first time, and the next round will be in spring 2023. Looking forward to it 🙃
 
 ## Selected presentations &#128172;
 - *Rectangular technology choices - From Leontief and Sraffa to waste*\
@@ -38,12 +38,12 @@ And now, again at NTNU, I contribute to the graduate course on input-output anal
     Poster presented at: NTNU Sustainability Science Conference 2017 in Trondheim
 
 
-## Publications &#128221;
-- Davin K., **Koslowski M.**, Dorber M., Hertwich E. (in preparation): ***Tailoring application-specific characterisation factors for global biodiversity footprints.***
-- Verones F., **Koslowski M.**, Gjedde P., Woods J.S., Lonka R., Stadler K. (in review): ***MarINvaders: a web toolkit of marine invasive species for use in environmental decision-making.***
-- Pauliuk S., **Koslowski M.**, Madhu K., Schulte S., Kilchert S. (2022): ***Informing the Co‑design of Digital Transformation and Sustainable Development Strategies – What Sociometabolic and Industrial Ecology Research can contribute.*** Journal of Cleaner Production[(accessible from ResearchGate)](https://www.researchgate.net/publication/358745129_Co-design_of_digital_transformation_and_sustainable_development_strategies_-_What_socio-metabolic_and_industrial_ecology_research_can_contribute)
-- **Koslowski M.** (2021): ***Climate compensation 2.0: Extending carbon compensation schemes by ownership.*** White paper, [ClimatePoint](https://en.climatepoint.com/), accessible [here](https://github.com/maximikos/climatepoint)
-- **Koslowski M.**, Moran DD., Tisserant A., Verones F., Wood R. (2020): ***Quantifying Europe's biodiversity footprints and the role of urbanization and income.*** [Global Sustainability 3, e1, 1–12](https://doi.org/10.1017/sus.2019.23)
+## &#128221; Publications
+- Davin K., **Koslowski M.**, Dorber M., Hertwich E. (in preparation): *Tailoring application-specific characterisation factors for global biodiversity footprints.*
+- Verones F., **Koslowski M.**, Gjedde P., Woods J.S., Lonka R., Stadler K. (in review): *MarINvaders: a web toolkit of marine invasive species for use in environmental decision-making.*
+- Pauliuk S., **Koslowski M.**, Madhu K., Schulte S., Kilchert S. (2022): *Informing the Co‑design of Digital Transformation and Sustainable Development Strategies – What Sociometabolic and Industrial Ecology Research can contribute.* Journal of Cleaner Production[(accessible from ResearchGate)](https://www.researchgate.net/publication/358745129_Co-design_of_digital_transformation_and_sustainable_development_strategies_-_What_socio-metabolic_and_industrial_ecology_research_can_contribute)
+- **Koslowski M.** (2021): *Climate compensation 2.0: Extending carbon compensation schemes by ownership.* White paper, [ClimatePoint](https://en.climatepoint.com/), accessible [here](https://github.com/maximikos/climatepoint)
+- **Koslowski M.**, Moran DD., Tisserant A., Verones F., Wood R. (2020): *Quantifying Europe's biodiversity footprints and the role of urbanization and income.* [Global Sustainability 3, e1, 1–12](https://doi.org/10.1017/sus.2019.23)
 
 ~~~
 </main>
