@@ -20,7 +20,7 @@ There is so much fascinating research out there and I would like to share here s
 - and the [EXIOBASE](https://exiobase.eu/)-paper on the [global resource footprint of nations](https://www.academia.edu/9111627/The_Global_Resource_Footprint_of_Nations_Carbon_water_land_and_materials_embodied_in_trade_and_final_consumption).
 
 ## &#127890; Teaching
-At NTNU, I have contributed to the graduate course on [input-output analysis](https://www.ntnu.edu/studies/courses/TEP4222). I am really happy about getting the chance for doing so - although, in fact, I *have to* as part of my work agreement. Spring semester 2022 was the first time, and my third round will be in spring 2024. Looking forward to it 🙃
+At NTNU, I have contributed to the graduate course on [input-output analysis](https://www.ntnu.edu/studies/courses/TEP4222). I am really happy about getting the chance for doing so - although, in fact, I *have to* as part of my work agreement. Spring semester 2022 was the first time, and my third round will be in spring 2024. Looking forward to it &#128579;
 
 During my time in Freiburg, I contributed substantially to the conceptualisation, realisation, and teaching of two master’s courses, namely one on material flow analysis and one on climate change mitigation and adaptation. In addition, I led a seminar and gave a few lectures in a third course on life cycle assessment.
 

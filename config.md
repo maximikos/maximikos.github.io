@@ -3,7 +3,7 @@
 @def website_title = "Max Koslowski"
 @def website_description = "My personal academic website. I am a PhD student @IndEcol developing sustainable development pathways. Sometimes I post about research, PhD life, and other topics."
 @def website_url = "https://maximikos.github.io"
-@def generate_rss = false
+@def generate_rss = true
 
 +++
 # Exclude everything that is not explicitly included in _include
@@ -30,7 +30,7 @@ ignore = [setdiff([isfile(x) ? x : x * "/" for x in readdir()], _include); _excl
         ssh = "https://www.ntnu.edu/employees/maximilian.koslowski",
         linkedin = "https://www.linkedin.com/in/maximilian-koslowski-711365143/",
         github = "https://github.com/maximikos",
-        research-gate = "https://www.researchgate.net/profile/Maximilian-Koslowski",
+        <!-- research-gate = "https://www.researchgate.net/profile/Maximilian-Koslowski",-->
         <!-- twitter = "https://twitter.com/maximikos" -->
     )
 
