@@ -32,7 +32,8 @@ ignore = [setdiff([isfile(x) ? x : x * "/" for x in readdir()], _include); _excl
         github = "https://github.com/maximikos"
     )
 
-<!-- research-gate = "https://www.researchgate.net/profile/Maximilian-Koslowski",-->
+<!-- research-gate = "https://www.researchgate.net/profile/Maximilian-Koslowski", -->
+
 <!-- twitter = "https://twitter.com/maximikos" -->
 
 <!-- Logo -->
