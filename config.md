@@ -30,6 +30,7 @@ ignore = [setdiff([isfile(x) ? x : x * "/" for x in readdir()], _include); _excl
         ssh = "https://www.ntnu.edu/employees/maximilian.koslowski",
         linkedin = "https://www.linkedin.com/in/maximilian-koslowski-711365143/",
         github = "https://github.com/maximikos",
+        research-gate = "https://www.researchgate.net/profile/Maximilian-Koslowski",
     )
 
 <!-- Logo -->
