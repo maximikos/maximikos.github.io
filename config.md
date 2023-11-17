@@ -35,7 +35,7 @@ ignore = [setdiff([isfile(x) ? x : x * "/" for x in readdir()], _include); _excl
     )
 
 <!-- Logo -->
-@def logo.mark = "$"
+@def logo.mark = "\$"
 @def logo.text = "cd /home/max"
 
 <!-- Menu -->
